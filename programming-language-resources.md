@@ -73,7 +73,7 @@
   - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
   - [Gophercises - Free course on Coding Exercises in Go](https://gophercises.com)
 - HTML
-  COMPLETE [8/2/24] [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
+  COMPLETE [8/2/24] [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet) [No need to revisit]
   - [Quick HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
   - [HTML Crash Course for Beginners (1 hr)](https://www.youtube.com/watch?v=UB1O30fR-EE)
   - [Learn HTML in Detail](https://www.scaler.com/topics/html/)

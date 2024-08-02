@@ -1,6 +1,7 @@
 ## Programming Language Resources
 
 - C
+
   - [ANSI C Cheat Sheet](<https://github.com/jwasham/coding-interview-university/blob/main/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf>)
   - [K&R C book (ANSI C)](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
   - [Make, Clang (video)](https://www.youtube.com/watch?v=U3zCxnj2w8M)
@@ -72,7 +73,7 @@
   - [Go Proverbs - Rob Pike (video)](https://www.youtube.com/watch?v=PAAkCSZUG1c)
   - [Gophercises - Free course on Coding Exercises in Go](https://gophercises.com)
 - HTML
-  - [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
+  COMPLETE [8/2/24] [HTML Cheat Sheet](https://www.interviewbit.com/html-cheat-sheet)
   - [Quick HTML Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_ZNmuQSXdS197Oyr1L9sPB)
   - [HTML Crash Course for Beginners (1 hr)](https://www.youtube.com/watch?v=UB1O30fR-EE)
   - [Learn HTML in Detail](https://www.scaler.com/topics/html/)
@@ -94,6 +95,7 @@
   - [Javascript Tutorial - Learn From Scratch](https://www.scaler.com/topics/javascript/)
   - [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions)
 - Rust
+
   - [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
   - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
   - [Rust Tutorial by Doug Milford from Lambda Valley](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)

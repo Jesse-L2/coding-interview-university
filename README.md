@@ -372,11 +372,23 @@ Challenge/Practice sites:
       - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
   - [ ] Implement with array using linear probing
+
     - hash(k, m) - m is the size of the hash table
     - add(key, value) - if the key already exists, update value
     - exists(key)
     - get(key)
     - remove(key)
+
+    ## Data Structures and Algorithms Videos
+
+    - [] [Data Structures and Dynamic Arrays](https://www.youtube.com/watch?v=CHhwJjR0mZA&t=480s)
+    - [] [Algorithms and Data Structures Tutorial](https://www.youtube.com/watch?v=8hly31xKli0)
+    - [] [Data Structures Easy to Advanced Course](https://www.youtube.com/watch?v=RBSGKlAvoiM)
+    - [] [Stack Data Structure Tutorial](https://www.youtube.com/watch?v=O1KeXo8lE8A)
+    - [] [Algorithms in Python](https://www.youtube.com/watch?v=fW_OS3LGB9Q)
+    - [] [Data Structures for Python Developers w/ Flask](https://www.youtube.com/watch?v=74NW-84BqbA)
+    - [] [Data Structures and Algorithms in Python](https://www.youtube.com/watch?v=pkYVOmU3MgA)
+    - [] []()
 
 ## More Knowledge
 
